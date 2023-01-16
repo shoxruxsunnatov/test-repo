@@ -6,4 +6,4 @@ class Main:
         return 'Hello, World!'
 
 main = Main()
-print(main.echo())
+# print(main.echo())
